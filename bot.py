@@ -4,7 +4,7 @@ from now import weather_for_now
 from extended_weather import weather_for_next_7_days
 
 
-TOKEN = '<Your Telegram-bot token>'
+TOKEN = '1850062110:AAFJTXGQNF5KsWRcN27-vacqau8vMHG3nAM'
 bot = TeleBot(TOKEN)
 
 
