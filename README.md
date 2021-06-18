@@ -11,3 +11,6 @@ how to launch the bot on local machine:
 3. source ‘<Virtual Enviroment Name>/bin/activate
 4. pip install -r requirements.txt
 5. launch "bot.py" file on your terminal
+
+  
+or you can chat to bot: https://t.me/edgarpo0401_bot
