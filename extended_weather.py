@@ -3,7 +3,7 @@ import requests
 
 BASE_URL = 'https://api.openweathermap.org/data/2.5/onecall?'
 GEO_COORDINATES = 'lat=42.87&lon=74.59'
-API_KEY = 'dbbe9c42acb0907171fb9540f8f38a02'
+API_KEY = '<Your OpenWeather API Token>'
 UNITS = 'metric'
 # units Temperature is available in Fahrenheit, Celsius and Kelvin units.
 # For temperature in Fahrenheit use units = imperial
